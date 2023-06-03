@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-conflict 2
-conflict 33333
-=======
-commit 2
-conflict 222
->>>>>>> conflict
+feature 2
